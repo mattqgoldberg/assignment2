@@ -1,2 +1,5 @@
-dataset
-venv312
+venv
+results
+__pycache__
+*.pyc
+data

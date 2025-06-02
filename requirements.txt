@@ -1,0 +1,6 @@
+music21
+numpy
+torch
+hmmlearn
+scikit-learn
+scipy
